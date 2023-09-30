@@ -1,0 +1,63 @@
+body {
+    background-image: url('background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ .table {
+    background-color: rgba(255, 255, 255, 0.001);
+    backdrop-filter: blur(7px);
+    text-align: center;
+    border: 1px solid wheat;
+    width: 25%;
+    border-radius: 25px;
+}
+
+.table {
+    margin-top: 50px;
+    margin-left: 450px;
+}   
+
+.name {
+    text-shadow: 0 0 35px #267f8f, 0 0 10px #036b7e;
+    font-size: 20px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.name1, .name2, .name3, .name4, .name5, .name6, .name7, .name8, .name9, .name11 {
+    color: whitesmoke;
+    font-size: 13px;
+    font-family: sans-serif;
+    
+}
+
+.form1, .form2, .form3, .form4, .form5, .form6, .form7, .form8 {
+    font-size: 14px;
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.signup {
+    font-size: medium;
+    background-color:teal;
+    padding: 5px;
+    width: 25%;
+    margin-left: 450px;
+
+}
+
+.para {
+    text-align: center;
+    font-family: arial;
+    font-weight: lighter;
+    font-style: italic;
+    color: whitesmoke;
+    font-size: 15px;
+    width: 380px;
+    margin-left: 405px;
+
+}
